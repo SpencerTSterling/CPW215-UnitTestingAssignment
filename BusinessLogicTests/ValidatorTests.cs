@@ -1,5 +1,12 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+//  The method signature consists of a method name and the type and kind 
+// (value, reference, or output) of each of its formal parameters. 
+// Method signature does not include the return type.
+
+// Without changing the method signature 
+// Ensure the ValidatorTests and Validator class are modified so the unit tests pass and test the correct business logic
+
 namespace BusinessLogicTests
 {
     [TestClass]
