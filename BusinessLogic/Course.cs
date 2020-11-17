@@ -16,6 +16,7 @@ namespace BusinessLogic
         public Course(string courseName)
         {
             CourseName = courseName;
+            InstructorName = "STAFF"; // default instructor name must be "STAFF"
         }
 
         /// <summary>
